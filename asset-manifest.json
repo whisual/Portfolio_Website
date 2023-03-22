@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whisual/Portfolio_Website.git/static/css/main.abec9dfb.css",
+    "main.js": "/whisual/Portfolio_Website.git/static/js/main.48faf2ab.js",
+    "index.html": "/whisual/Portfolio_Website.git/index.html",
+    "main.abec9dfb.css.map": "/whisual/Portfolio_Website.git/static/css/main.abec9dfb.css.map",
+    "main.48faf2ab.js.map": "/whisual/Portfolio_Website.git/static/js/main.48faf2ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abec9dfb.css",
+    "static/js/main.48faf2ab.js"
+  ]
+}
