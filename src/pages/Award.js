@@ -14,7 +14,13 @@ const Award = () => {
                 <span class="fa-li">
                   <i class="fas fa-trophy text-warning"></i>
                 </span>
-                HackerRank React Developer
+                HackerRank React Basics Certifications
+              </li>
+              <li>
+                <span class="fa-li">
+                  <i class="fas fa-trophy text-warning"></i>
+                </span>
+                HackerRank Java Basics Certifications
               </li>
               <li>
                 <span class="fa-li">

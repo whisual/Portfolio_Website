@@ -12,7 +12,7 @@ const Header = () => {
           <span class="d-none d-lg-block">
             <img
               class="img-fluid img-profile rounded-circle mx-auto mb-2"
-              src="assets/img/271193499_629985628048981_1009392145846999175_n.jpg"
+              src="https://yt3.googleusercontent.com/jG8nLrghRea0mL6N0f0X7Nw4aEydDZXvj8g_am0PM8JsYgslmnHAXwXJS7hjm4f52bfAQGY60g=s176-c-k-c0x00ffffff-no-rj"
               alt="..."
             />
           </span>
@@ -38,6 +38,11 @@ const Header = () => {
             <li class="nav-item">
               <Link class="nav-link js-scroll-trigger" to="/education">
                 Education
+              </Link>
+            </li>
+            <li class="nav-item">
+              <Link class="nav-link js-scroll-trigger" to="/experience">
+                Experience
               </Link>
             </li>
             <li class="nav-item">

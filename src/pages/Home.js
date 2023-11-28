@@ -13,13 +13,13 @@ const Home = () => {
               <span class="text-primary"> Sharma</span>
             </h1>
             <div class="subheading mb-5">
-            Moh. Neel Khudana, Jwalapur, Haridwar, Uttarakhand 
-            <div class="my-2">. (+91) 8755733740 ·</div>
-              <Link>mvishal1997@gmail.com</Link>
+              Jwalapur, Haridwar, Uttarakhand (249407)
+              <div class="my-2">. (+91) 8755733740 ·</div>
+              <Link>imvishal1997@gmail.com</Link>
             </div>
             <p class="lead mb-5">
-            I'm a fresher web developer, currently enrolled in Geekster bootcamp and learning some coding and scripting languages. Till now i learnt HTML, CSS, Javascript, React.Js, Programming in JAVA, Object Oriented Programming in JAVA, Structured Query Language.
-            Now my main goal is to learn Data Structures and Algorithm in 2023
+              I'm a fresher web developer, currently enrolled in Geekster bootcamp and learning some coding and scripting languages. Till now i learnt HTML, CSS, Javascript, React.Js, Programming in JAVA, Object Oriented Programming in JAVA, Structured Query Language.
+              Now my main goal is to learn Data Structures and Algorithm in 2023
             </p>
             <div class="social-icons">
               <a class="social-icon" href="https://www.linkedin.com/in/vishal-sharma-614702207/">
@@ -37,7 +37,7 @@ const Home = () => {
             </div>
           </div>
         </section>
- 
+
 
         <section class="resume-section" id="education">
           <div class="resume-section-content">
@@ -91,7 +91,7 @@ const Home = () => {
               <li class="list-inline-item">
                 <i class="fab fa-js-square"></i>
               </li>
-              
+
               <li class="list-inline-item">
                 <i class="fab fa-react"></i>
               </li>
@@ -103,10 +103,10 @@ const Home = () => {
               <li class="list-inline-item">
                 <i class="fab fa-java"></i>
               </li>
-              
+
             </ul>
-            </div>
-            </section>
+          </div>
+        </section>
         <hr class="m-0" />
 
         <section class="resume-section" id="awards">
@@ -135,8 +135,8 @@ const Home = () => {
             <h2 class="mb-5">Projects</h2>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
-                    <h3 class="mb-1">Portfolio Website</h3>
-               
+                <h3 class="mb-1">Portfolio Website</h3>
+
                 <div class="subheading mb-3">CREATED A PORTFOLIO WEBSITE WHICH IS RESPONSIVE FOR ALL SCREEN SIZES USING HTML, CSS & REACT JS</div>
               </div>
             </div>
